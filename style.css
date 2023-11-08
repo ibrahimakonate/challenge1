@@ -1,0 +1,18 @@
+body{
+    background-color: violet;
+    margin: 0;
+    width: 100%; 
+}
+.container{
+    background-color: violet;
+    display: flex;
+}
+
+.carré{
+    background-color: white;
+    width: 440px;
+    height: 470px;
+    position: relative;
+    top: 70px;
+    left: 470px;
+} 
